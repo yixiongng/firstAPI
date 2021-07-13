@@ -1,4 +1,4 @@
-namespace Commander.Models
+namespace IssueTracker.Api.Models
 {
     public class Command
     {
